@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="SkillLists">
+    <node id="root">
+      <children>
+        <node id="SkillList">
+                    <attribute id="UUID" type="guid" value="2cf95613-d607-4044-b9b4-72ce5f157ede" />
+                    <attribute id="Skills" type="LSString" value="Acrobatics, AnimalHandling, Arcana, Athletics, Deception, History, Insight, Intimidation, Investigation, Medicine, Nature, Perception, Performance, Persuasion, Religion, SleightOfHand, Stealth, Survival" />
+                </node>
+      </children>
+    </node>
+  </region>
+</save>

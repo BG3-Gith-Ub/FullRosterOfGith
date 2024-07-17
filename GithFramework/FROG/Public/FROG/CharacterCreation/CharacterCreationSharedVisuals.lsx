@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="307"/>
+  <region id="CharacterCreationSharedVisuals">
+    <node id="root">
+      <children>
+        <!-- Back -->
+        <node id="CharacterCreationSharedVisual">
+          <attribute id="DisplayName" type="TranslatedString" handle="hef892923gc879g42dfg8a4agb2767e95ecfd" version="1"/>
+          <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
+          <attribute id="UUID" type="guid" value="f3535349-fb74-4197-ac70-f43920948948"/>
+          <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+        </node>
+        <!-- Beard -->
+        <node id="CharacterCreationSharedVisual">
+          <attribute id="DisplayName" type="TranslatedString" handle="h8c1431efg41afg4b17g8a51gd7bea9c3d77d" version="1"/>
+          <attribute id="SlotName" type="FixedString" value="Beard"/>
+          <attribute id="UUID" type="guid" value="06d99409-955b-474b-91ed-6fb8a69e3d3d"/>
+          <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+        </node>
+        <!-- Body -->
+        <node id="CharacterCreationSharedVisual">
+          <attribute id="DisplayName" type="TranslatedString" handle="hf739a1e6gda13g465dg925cgd1ef4f3006c7" version="1"/>
+          <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
+          <attribute id="UUID" type="guid" value="de29aaa1-b622-4a3e-84fe-1755b40f512e"/>
+          <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+        </node>
+        <!-- Flair -->
+        <node id="CharacterCreationSharedVisual">
+          <attribute id="DisplayName" type="TranslatedString" handle="hd8587954g2b2dg4853g9e7bgc4f3fcfb805d" version="1"/>
+          <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
+          <attribute id="UUID" type="guid" value="d6ba3e76-9d46-4480-84c7-9d519d740ae2"/>
+          <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+        </node>
+        <!-- Hair -->
+        <node id="CharacterCreationSharedVisual">
+          <attribute id="DisplayName" type="TranslatedString" handle="hd06cf48dga5c6g4f61g8890g31ae28a84fb3" version="1"/>
+          <attribute id="SlotName" type="FixedString" value="Hair"/>
+          <attribute id="UUID" type="guid" value="8e460930-875f-4aac-b3f7-2506a677ff67"/>
+          <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+        </node>
+        <!-- Horns -->
+        <node id="CharacterCreationSharedVisual">
+          <attribute id="DisplayName" type="TranslatedString" handle="h56fe8391g27ddg45a1ga320gb5697a9b371c" version="1"/>
+          <attribute id="SlotName" type="FixedString" value="Horns"/>
+          <attribute id="UUID" type="guid" value="b468c27b-4e62-4c41-8286-1891d6fe488d"/>
+          <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+        </node>
+        <!-- Tail -->
+        <node id="CharacterCreationSharedVisual">
+          <attribute id="BodyShape" type="uint8" value="0"/>
+          <attribute id="BodyType" type="uint8" value="1"/>
+          <attribute id="DisplayName" type="TranslatedString" handle="h0659d34eg5201g4982g8602gd827fdaa3f13" version="1"/>
+          <attribute id="SlotName" type="FixedString" value="Tail"/>
+          <attribute id="UUID" type="guid" value="53107c54-545d-4c18-a514-cd7ffde81327"/>
+          <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+  <version major="10" minor="0" revision="0" build="0"/>
+  <region id="DefaultValues">
+    <node id="root">
+      <children>
+
+        <!-- Gith -->
+        <node id="DefaultValue">
+          <attribute id="Add" type="LSString" value="Constitution;Intelligence"/>
+          <attribute id="Level" type="int32" value="1"/>
+          <attribute id="SelectorId" type="LSString" value="AbilityBonus"/>
+          <attribute id="TableUUID" type="guid" value="ae4a959c-fad2-4ced-8489-066bf3a46af7"/>
+          <attribute id="UUID" type="guid" value="0a03d9ef-df0b-4a11-a0c6-e57f2bd7f3f3"/>
+        </node>
+
+      </children>
+    </node>
+  </region>
+</save>

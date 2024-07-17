@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="329"/>
+    <region id="DefaultValues">
+        <node id="root">
+            <children>
+                <!-- Githyanki -->
+                    <node id="DefaultValue">
+                        <attribute id="UUID" type="guid" value="4b64a744-7c0b-4f35-a30b-ee06195ff621"/>
+                        <attribute id="TableUUID" type="guid" value="96876227-b91f-476b-80e5-d7fbdefb775b"/>
+                        <attribute id="Level" type="int32" value="1"/>
+                        <attribute id="Add" type="LSString" value="Athletics;Arcana;Survival;Performance"/>
+                    </node>
+            </children>
+        </node>
+    </region>
+</save>

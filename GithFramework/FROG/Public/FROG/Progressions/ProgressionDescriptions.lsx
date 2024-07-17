@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="ProgressionDescriptions">
+    <node id="root">
+      <children>
+        <node id="ProgressionDescription">
+                        <attribute id="UUID" type="guid" value="47ea9487-22ee-480d-a7d7-7d56b41d3982" />
+                        <attribute id="ProgressionTableId" type="guid" value="4ef35277-07c2-4c97-b7af-4bcb1f7c6021" />
+                        <attribute id="DisplayName" type="TranslatedString" handle="hff3c6058gf91eg4962g84cageff1c311d0ef" version="1" />
+                        <attribute id="Description" type="TranslatedString" handle="h27f9ef5cg106fg478aga3cfgcf6ac554333d" version="1" />
+                        <attribute id="ExactMatch" type="FixedString" value="IncreaseMaxHP(Level)" />
+                    </node>
+        <node id="ProgressionDescription">
+                    <attribute id="UUID" type="guid" value="4f6139f3-1a58-4a2b-b058-db403dda54c9" />
+                    <attribute id="ProgressionId" type="guid" value="194844df-6b4d-43b1-a347-79879517f1b9" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="h087d5d92g7137g492fg9aa6g10d0c17993b0" version="1" />
+                    <attribute id="Description" type="TranslatedString" handle="h4648e549g651eg49c9gabe8g43938fadb53b" version="1" />
+                    <attribute id="ExactMatch" type="FixedString" value="ProficiencyBonus(Skill,Perception)" />
+                    <attribute id="Hidden" type="bool" value="false" />
+                </node>
+        <node id="ProgressionDescription">
+                    <attribute id="UUID" type="guid" value="25f525d1-7363-4531-849b-9f661d16b728" />
+                    <attribute id="ProgressionId" type="guid" value="b262db2c-7a80-4c76-a1e8-0efdb9c1db13" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="h60b9964cg74b4g4555g92eeg0087fb44a88d" version="1" />
+                    <attribute id="Description" type="TranslatedString" handle="h37a11970g8ca4g430fg9924g5678853b7003" version="1" />
+                    <attribute id="ExactMatch" type="FixedString" value="ProficiencyBonus(Skill,Stealth)" />
+                    <attribute id="Hidden" type="bool" value="false" />
+                </node>
+        <node id="ProgressionDescription">
+                    <attribute id="UUID" type="guid" value="119d6a42-4eaf-4d21-bc92-888112ad9c9b" />
+                    <attribute id="ProgressionId" type="guid" value="12e68661-15ce-498a-96d2-f867ef424a84" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="h60b9964cg74b4g4555g92eeg0087fb44a88d" version="1" />
+                    <attribute id="Description" type="TranslatedString" handle="h37a11970g8ca4g430fg9924g5678853b7003" version="1" />
+                    <attribute id="ExactMatch" type="FixedString" value="ProficiencyBonus(Skill,Stealth)" />
+                    <attribute id="Hidden" type="bool" value="false" />
+                </node>    
+        <node id="ProgressionDescription">
+                    <attribute id="UUID" type="guid" value="3d7b0334-2097-4db7-868f-f204d08e6b94" />
+                    <attribute id="ProgressionId" type="guid" value="cf823770-6cde-497f-8dec-cd8ff28939f9" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="h60b9964cg74b4g4555g92eeg0087fb44a88d" version="1" />
+                    <attribute id="Description" type="TranslatedString" handle="h37a11970g8ca4g430fg9924g5678853b7003" version="1" />
+                    <attribute id="ExactMatch" type="FixedString" value="ProficiencyBonus(Skill,Stealth)" />
+                    <attribute id="Hidden" type="bool" value="false" />
+                </node>
+        <node id="ProgressionDescription">
+                    <attribute id="UUID" type="guid" value="f0722a8f-db49-445a-a5ca-7ce95a1b479e" />
+                    <attribute id="ProgressionId" type="guid" value="709859d2-6bd6-4e78-9242-4ba67d7cb336" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="h7bb5e978g82dfg47ffg9451ge71119831f0a" version="1" />
+                    <attribute id="Description" type="TranslatedString" handle="h3f21d136g2967g4ac7ga6d9gaacb899d0187" version="1" />
+                    <attribute id="ExactMatch" type="FixedString" value="Resistance(Fire, Resistant)" />
+                    <attribute id="Hidden" type="bool" value="false" />
+                </node>
+      </children>
+    </node>
+  </region>
+</save>

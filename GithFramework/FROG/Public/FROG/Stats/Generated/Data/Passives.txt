@@ -1,0 +1,76 @@
+//Base and CC
+
+new entry "MovementBase"
+type "PassiveData"
+data "Boosts" "ActionResource(Movement,9,0)"
+
+new entry "DraconicHeritage"
+type "PassiveData"
+data "DisplayName" "h7d97162cgffc4g4ed7ga92eg0c1306182b4d;1"
+data "Description" "h764993fegc8fag468dgac38g5680b73bb974;1"
+data "Icon" "PassiveFeature_DraconicAncestry_Black"
+data "Properties" "Hidden"
+
+// ParentGith
+
+new entry "Gith"
+type "PassiveData"
+data "DisplayName" "h1d356d87g3f7dg4140gb25fgc6eb1ff90010;1"
+data "Description" "h84eeb02cg5edfg4494ga2f5g897fec478d4a;1"
+data "DescriptionParams" "1"
+data "Icon" "PassiveFeature_NaturalExplorer_BeastTamer"
+data "Properties" "Highlighted;ForceShowInCC"
+data "Boosts" "Ability(Intelligence,1)"
+
+new entry "Githyanki"
+type "PassiveData"
+data "DisplayName" "h680c56bdg090cg408agaccbgdeccf2cf235b;1"
+data "Description" "h6a842cf5gbb9dg43a5ga969g673b9e6ad553;1"
+data "DescriptionParams" "2"
+data "Icon" "PassiveFeature_NaturalExplorer_BeastTamer"
+data "Properties" "Highlighted;ForceShowInCC"
+data "Boosts" "Ability(Strength,2)"
+
+new entry "Githzerai"
+type "PassiveData"
+data "DisplayName" "hac4693c2ga133g4cbbg9506g46cc2ba5a9c0;1"
+data "Description" "hda8bfa85g4e33g4537gb4f4ge66dbb271b75;1"
+data "DescriptionParams" "2"
+data "Icon" "PassiveFeature_NaturalExplorer_BeastTamer"
+data "Properties" "Highlighted;ForceShowInCC"
+data "Boosts" "Ability(Wisdom,2)"
+
+new entry "Gith Martial Prodigy"
+type "PassiveData"
+data "DisplayName" "h65148781ga78eg4045ga130gb0052296002c;1"
+data "Description" "he7637ae2g33c2g497bga250g042f485480ed;1"
+data "Icon" "PassiveFeature_Gith_MartialProdigy"
+data "Properties" "Highlighted;ForceShowInCC"
+data "Boosts" "Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(Shortswords);Proficiency(Longswords);Proficiency(Greatswords)"
+
+new entry "Gith Astral Knowledge"
+type "PassiveData"
+data "Boosts" "UnlockSpell(Shout_AstralKnowledge)"
+
+new entry "Githyanki Psionics"
+type "PassiveData"
+data "Boosts" "UnlockSpell(Target_MageHand_GithyankiPsionics)"
+
+new entry "Githyanki Jump"
+type "PassiveData"
+data "Boosts" "UnlockSpell(Target_Jump_Githyanki)"
+
+new entry "Githyanki Misty Step"
+type "PassiveData"
+data "Boosts" "UnlockSpell(Target_MistyStep_Githyanki)"
+
+// Githzerai
+
+new entry "GTZ_Mental_Discipline"
+type "PassiveData"
+data "DisplayName" "hfe1a80bbg9a44g477dg8443g571e9e3558b3"
+data "Description" "h2f31999aga35cg4354g8719gea719a6d2149"
+data "Icon" "PassiveFeature_Gith_MentalDiscipline"
+data "Properties" "Highlighted;ForceShowInCC"
+data "Boosts" "Tag(CHARMED_ADV);Tag(FRIGHTENED_ADV)"
+

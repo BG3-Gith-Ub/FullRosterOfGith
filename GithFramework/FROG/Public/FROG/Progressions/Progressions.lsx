@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="Progressions">
+    <node id="root">
+      <children>
+       
+        <node id="Progression">
+          <attribute id="UUID" type="guid" value="e0f1df33-4239-4e42-aaca-3a84eae484c1" />
+          <attribute id="Level" type="uint8" value="1" />
+          <attribute id="Name" type="LSString" value="ParentGith" />
+          <attribute id="TableUUID" type="guid" value="ae4a959c-fad2-4ced-8489-066bf3a46af7" />
+          <attribute id="ProgressionType" type="uint8" value="2" />
+          <attribute id="PassivesAdded" type="LSString" value="MovementBase;Gith" />
+        </node>
+        <node id="Progression">
+          <attribute id="UUID" type="guid" value="8ed24956-d352-4239-b532-cfdf7b8ce78f" />
+          <attribute id="Level" type="uint8" value="1" />
+          <attribute id="Name" type="LSString" value="Githyanki" />
+          <attribute id="TableUUID" type="guid" value="96876227-b91f-476b-80e5-d7fbdefb775b" />
+          <attribute id="ProgressionType" type="uint8" value="2" />
+          <attribute id="PassivesAdded" type="LSString" value="Githyanki;Gith Martial Prodigy;Gith Astral Knowledge;Githyanki Psionics" />
+        </node>
+        <node id="Progression">
+          <attribute id="UUID" type="guid" value="39dff835-7447-4785-b463-7c807ca3a8a7" />
+          <attribute id="Level" type="uint8" value="3" />
+          <attribute id="Name" type="LSString" value="Githyanki" />
+          <attribute id="TableUUID" type="guid" value="96876227-b91f-476b-80e5-d7fbdefb775b" />
+          <attribute id="ProgressionType" type="uint8" value="2" />
+          <attribute id="PassivesAdded" type="LSString" value="Githyanki Jump" />
+        </node>
+        <node id="Progression">
+          <attribute id="UUID" type="guid" value="733a0b28-0a30-48d8-b4a9-bc90cb53ccf3" />
+          <attribute id="Level" type="uint8" value="5" />
+          <attribute id="Name" type="LSString" value="Githyanki" />
+          <attribute id="TableUUID" type="guid" value="96876227-b91f-476b-80e5-d7fbdefb775b" />
+          <attribute id="ProgressionType" type="uint8" value="2" />
+          <attribute id="PassivesAdded" type="LSString" value="Githyanki Misty Step" />
+        </node>
+
+      <!--OVER WRITES-->
+        <node id="Progression">
+            <attribute id="Boosts" type="LSString" value=""/>
+            <attribute id="Level" type="uint8" value="1"/>
+            <attribute id="Name" type="LSString" value="Githyanki"/>
+            <attribute id="PassivesAdded" type="LSString" value="Gith_MartialProdigy"/>
+            <attribute id="ProgressionType" type="uint8" value="2"/>
+            <attribute id="Selectors" type="LSString" value="AddSpells(5216169f-6b32-4860-8664-61348d970e48);AddSpells(4d7bfb6c-5001-4a83-8728-94e3711516d3,,Intelligence,,AlwaysPrepared)"/>
+            <attribute id="TableUUID" type="guid" value="81e2cb57-6a12-4429-b3a5-f72549355b3b"/>
+            <attribute id="UUID" type="guid" value="f653d537-bc14-4fea-b7d2-25734ec928a2"/>
+        </node>
+
+      </children>
+    </node>
+  </region>
+</save>

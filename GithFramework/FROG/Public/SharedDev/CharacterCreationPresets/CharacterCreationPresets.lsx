@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="47" lslib_meta="v1,bswap_guids" />
+	<region id="CharacterCreationPresets">
+		<node id="root">
+      <children>
+
+        <!-- Gith -->
+        <!-- Githyanki -->
+        <node id="CharacterCreationPreset">
+          <attribute id="UUID" type="guid" value="f60b0e8c-4cce-493c-8d6b-fdab3702246d"/>
+        </node>
+        <node id="CharacterCreationPreset">
+          <attribute id="UUID" type="guid" value="7ce97474-fcd0-4702-af13-08375a220fc0"/>
+        </node>
+
+
+        <node id="CharacterCreationPreset">
+          <attribute id="UUID" type="guid" value="994aaf94-37d9-454b-98ff-bc86a8584a9d"/>
+        </node>
+        <node id="CharacterCreationPreset">
+          <attribute id="UUID" type="guid" value="d6e144ec-ddae-4424-8741-5fb3463214ba"/>
+        </node> 
+
+        <!-- Githzerai -->
+        <node id="CharacterCreationPreset">
+          <attribute id="UUID" type="guid" value="4747fd7d-18bd-4b2e-8098-816184044d06"/>
+        </node>
+        <node id="CharacterCreationPreset">
+          <attribute id="UUID" type="guid" value="d1108973-84fd-4424-b116-0c5409449831"/>
+        </node>
+
+      </children>
+    </node>
+  </region>
+</save>
